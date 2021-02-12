@@ -1,4 +1,5 @@
 {
+  "homepage": "viniciusp78.github.io/react-cam-cropper",
   "name": "react-webcam-screenshot",
   "version": "0.1.0",
   "private": true,
@@ -22,7 +23,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -43,6 +46,7 @@
     ]
   },
   "devDependencies": {
-    "@types/react-image-crop": "^8.1.2"
+    "@types/react-image-crop": "^8.1.2",
+    "gh-pages": "^3.1.0"
   }
 }
