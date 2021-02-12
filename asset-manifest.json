@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/viniciusp78.github.io/react-cam-cropper/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/viniciusp78.github.io/react-cam-cropper/static/js/main.e162457f.chunk.js",
+    "main.js.map": "/viniciusp78.github.io/react-cam-cropper/static/js/main.e162457f.chunk.js.map",
+    "runtime-main.js": "/viniciusp78.github.io/react-cam-cropper/static/js/runtime-main.0b4a294c.js",
+    "runtime-main.js.map": "/viniciusp78.github.io/react-cam-cropper/static/js/runtime-main.0b4a294c.js.map",
+    "static/css/2.21050121.chunk.css": "/viniciusp78.github.io/react-cam-cropper/static/css/2.21050121.chunk.css",
+    "static/js/2.0ed9d732.chunk.js": "/viniciusp78.github.io/react-cam-cropper/static/js/2.0ed9d732.chunk.js",
+    "static/js/2.0ed9d732.chunk.js.map": "/viniciusp78.github.io/react-cam-cropper/static/js/2.0ed9d732.chunk.js.map",
+    "static/js/3.0bde4799.chunk.js": "/viniciusp78.github.io/react-cam-cropper/static/js/3.0bde4799.chunk.js",
+    "static/js/3.0bde4799.chunk.js.map": "/viniciusp78.github.io/react-cam-cropper/static/js/3.0bde4799.chunk.js.map",
+    "index.html": "/viniciusp78.github.io/react-cam-cropper/index.html",
+    "static/css/2.21050121.chunk.css.map": "/viniciusp78.github.io/react-cam-cropper/static/css/2.21050121.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/viniciusp78.github.io/react-cam-cropper/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0ed9d732.chunk.js.LICENSE.txt": "/viniciusp78.github.io/react-cam-cropper/static/js/2.0ed9d732.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b4a294c.js",
+    "static/css/2.21050121.chunk.css",
+    "static/js/2.0ed9d732.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e162457f.chunk.js"
+  ]
+}
